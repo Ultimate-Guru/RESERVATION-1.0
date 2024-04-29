@@ -1,0 +1,207 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.bbq {
+  border-radius: 25px;
+  margin-left: 150px;
+  width: 400px;
+  height: 210px;
+  position: absolute;
+  left: 25px;
+  margin-top: 30px;
+}
+
+.cock {
+  border-radius: 25px;
+  margin-top: 30px;
+  width: 400px;
+  height: 210px;
+  position: absolute;
+  right: 3px;
+  margin-right: 209px;
+}
+
+.form {
+  margin-top: 22%;
+  margin-left: 10%;
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  text-align: justify;
+  background-color: crimson;
+  border-radius: 30px;
+  height: 230px;
+  width: 900px;
+}
+
+input {
+  border: none;
+  position: relative;
+  top: 10%;
+  padding: 13px;
+  border-radius: 5px;
+}
+
+h2 {
+  color: #fff;
+  font-family: 'Courier New';
+  margin-left: 50px;
+  margin-top: 40px;
+  font-size: xx-large;
+}
+
+p {
+  color: #fff;
+  margin-left: 66px;
+  margin-top: 30px;
+  font-size: x-small;
+}
+
+.name {
+  position: absolute;
+  top: 40px;
+  margin-left: 339px;
+  width: 200px;
+  height: 10px;
+}
+
+.address {
+  position: absolute;
+  top: 40px;
+  margin-left: 600px;
+  width: 200px;
+  height: 10px;
+}
+
+.guest {
+  position: absolute;
+  top: 100px;
+  margin-left: 339px;
+  width: 200px;
+  height: 10px;
+}
+
+.birth {
+  position: absolute;
+  top: 100px;
+  margin-left: 600px;
+  width: 92px;
+  height: 10px;
+}
+
+.time {
+  position: absolute;
+  top: 100px;
+  margin-left: 730px;
+  width: 72px;
+  height: 10px;
+}
+
+h4 {
+  color: #000;
+  font-size: small;
+  font-family: 'Segoe UI';
+  position: absolute;
+  top: 80%;
+  left: 883px;
+  bottom: 85px;
+  height: 15px;
+  background-color: gold;
+  border-radius: 5px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+h3 {
+  color: #fff;
+  font-size: 30px;
+  font-family: 'Segoe UI';
+  margin-left: 15%;
+  position: absolute;
+  top: 55px;
+}
+
+.hr {
+  text-decoration: underline;
+  color: yellow;
+  margin-top: -7px;
+}
+
+h5 {
+  color: #fff;
+  font-size: 35px;
+  font-family: 'Segoe UI';
+  position: absolute;
+  top: 50px;
+  margin-left: 55%;
+}
+
+.tails {
+  color: #fff;
+  position: absolute;
+  top: 99px;
+  right: 30%;
+  font-size: small;
+}
+
+.takes {
+  color: #fff;
+  position: absolute;
+  top: 99.5px;
+  font-size: small;
+  left: 7px;
+}
+
+h1 {
+  color: green;
+  font-weight: bolder;
+  font-family: Georgia;
+  font-size: x-large;
+  margin-left: 15%;
+  position: absolute;
+  top: 27%;
+  background-color: gold;
+  padding: 20px;
+  border-radius: 350%;
+  cursor: pointer;
+}
+
+.sp {
+  color: #212121;
+  font-size: xx-small;
+  text-decoration: none;
+  padding: 0;
+  position: relative;
+  top: -10px;
+  left: 5px;
+}
+
+h6 {
+  color: green;
+  font-weight: bolder;
+  font-family: Georgia;
+  font-size: x-large;
+  margin-left: 53.6%;
+  position: absolute;
+  top: 27%;
+  background-color: gold;
+  padding: 20px;
+  border-radius: 350%;
+  cursor: pointer;
+}
+
+.space {
+  color: #212121;
+  font-size: xx-small;
+  text-decoration: none;
+  position: relative;
+  top: -10px;
+  left: 5px;
+}
